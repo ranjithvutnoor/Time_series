@@ -1,2 +1,2 @@
 # Time_series
-it contailes time series modules forecasting.
+applied arima model on nyc energey consumption dataset
